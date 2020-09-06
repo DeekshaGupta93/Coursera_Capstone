@@ -1,2 +1,2 @@
 # Movie Recommendation System
-!(sample_image.png)
+!![Image](sample_image.png)
